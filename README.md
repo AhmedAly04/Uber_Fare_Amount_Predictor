@@ -20,8 +20,7 @@ It combines **machine learning (XGBOOST)** with a **Streamlit web interface** fo
 
 ## 🎥 Demo
 
-[Click to Watch Demo](https://github.com/user-attachments/assets/1f04807f-fd11-4732-8e98-deef0645a01e)
-
+[Click to Watch Demo](https://github.com/user-attachments/assets/9230e6c1-44c1-4765-9241-970849a319bd)
 
 ---
 
@@ -62,7 +61,7 @@ The model uses the following features:
 
 ## 📁 Project Structure.
 
-<img width="390" height="220" alt="Untitled" src="https://github.com/user-attachments/assets/71e96f09-4c17-44c8-ba06-e71b21ea622f" />
+<img width="390" height="220" alt="Untitled" src="https://github.com/user-attachments/assets/94d2250b-299a-4f3b-b3a9-bf929694eed7" />
 
 ---
 
