@@ -6,8 +6,8 @@ import math
 from datetime import date
 from xgboost import XGBRegressor
 
-model_path = r'X:\NTI\ML\Projects\Fare Amount Project\Deployment\Fare_Amount_model.pkl'
-pre_path = r'X:\NTI\ML\Projects\Fare Amount Project\Deployment\model_preprocessing.pkl'
+model_path = r'X:\ML\Projects\Fare Amount Project\Deployment\Fare_Amount_model.pkl'
+pre_path = r'X:\ML\Projects\Fare Amount Project\Deployment\model_preprocessing.pkl'
 
 with open(model_path, 'rb') as f:
     loaded_model = pickle.load(f)
@@ -109,4 +109,5 @@ if st.button("Predict Fare 🚀", type="primary", use_container_width=True):
         st.success(f"💰 Estimated Fare: ${final_fare:.2f}")
 
     except Exception as e:
+
         st.error(f"Prediction Error: {e}")
