@@ -97,6 +97,5 @@ The model uses the following features:
 - 📁 **Dataset** (for training & testing):  
   [Download from Google Drive](https://drive.google.com/file/d/1jXXDHk1yST-jvb0q4WCyZtX1bRBV1Hwu/view).
   
-- 🎯 **Trained Model & Scaler** you can get them from the Deployment Folder (for predictions):
+- 🎯 **Trained Model & Scaler** you can get them from the Deployment Folder (for predictions):  
   [Download from Google Drive](https://drive.google.com/drive/folders/1s_XpCaOpHuFJbPcdc7uHEx-p2vmo1FoH?usp=sharing).
-
