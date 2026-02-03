@@ -13,7 +13,7 @@ It combines **machine learning (XGBOOST)** with a **Streamlit web interface** fo
 - [📁 Project Structure](#-project-structure)
 - [🧼 Data Exploration & Preprocessing](#-data-exploration--preprocessing)
 - [📈 Model Training](#-model-training)
-- [🌐 Web App with Django](#-web-app-with-django)
+- [🌐 Web App With Streamlit](#-web-app-with-streamlit)
 - [📥 Downloads](#-downloads)
 
 ---
