@@ -1,3 +1,5 @@
+# 🚖 Fare Amount Predictor Web App (ML + Streamlit)
+
 This web application allows users to **predict the fare amount for a taxi-uber ride** based on specific ride details.  
 It combines **machine learning (XGBOOST)** with a **Streamlit web interface** for end-to-end interaction.
 
