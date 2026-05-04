@@ -15,11 +15,6 @@ with open(model_path, 'rb') as f:
 with open(pre_path, 'rb') as f:
     preprocess = pickle.load(f)
 
-with open(model_path, 'rb') as f:
-    loaded_model = pickle.load(f)
-with open(pre_path, 'rb') as f:
-    preprocess = pickle.load(f)
-
 scaler = preprocess['scaler']
 feature_order = preprocess['feature_order']
 
