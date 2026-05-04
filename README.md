@@ -21,7 +21,9 @@ It combines **machine learning (XGBOOST)** with a **Streamlit web interface** fo
 ## 🎥 Demo
 🚀 [Live Demo: Uber Fare Predictor App](https://uberfareamountpredictor.streamlit.app/)
 
-[Click to Watch Demo](https://github.com/user-attachments/assets/9230e6c1-44c1-4765-9241-970849a319bd)
+
+https://github.com/user-attachments/assets/08462f5d-2191-4614-a888-2451dc19907f
+
 
 ---
 
