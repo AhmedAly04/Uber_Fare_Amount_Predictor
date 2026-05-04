@@ -64,7 +64,8 @@ The model uses the following features:
 
 ## 📁 Project Structure.
 
-<img width="390" height="220" alt="Untitled" src="https://github.com/user-attachments/assets/94d2250b-299a-4f3b-b3a9-bf929694eed7" />
+<img width="390" height="220" alt="Untitled" src="https://github.com/user-attachments/assets/b6931dea-8743-436a-b564-4f42279ffa7b" />
+
 
 ---
 
