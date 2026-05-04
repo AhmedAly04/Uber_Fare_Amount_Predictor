@@ -6,8 +6,14 @@ import math
 from datetime import date
 from xgboost import XGBRegressor
 
-model_path = r'X:\ML\Projects\Fare Amount Project\Deployment\Fare_Amount_model.pkl'
-pre_path = r'X:\ML\Projects\Fare Amount Project\Deployment\model_preprocessing.pkl'
+import os
+base_dir = os.path.dirname(__file__)
+model_path = os.path.join(base_dir, 'Fare_Amount_model.pkl')
+pre_path = os.path.join(base_dir, 'model_preprocessing.pkl')
+with open(model_path, 'rb') as f:
+    loaded_model = pickle.load(f)
+with open(pre_path, 'rb') as f:
+    preprocess = pickle.load(f)
 
 with open(model_path, 'rb') as f:
     loaded_model = pickle.load(f)
